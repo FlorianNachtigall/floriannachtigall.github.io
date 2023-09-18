@@ -1,22 +1,23 @@
 main:
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
+  - title: Predicting building age from urban form at large scale
+    authors: <strong>Florian Nachtigall</strong>, Nikola Milojevic-Dupont, Felix Wagner, Felix Creutzig
+    conference_short: CEUS
+    conference: Computers, Environment and Urban Systems
+    # pdf: ~
+    page: https://www.sciencedirect.com/science/article/pii/S019897152300073X
+    code: https://github.com/ai4up/ufo-prediction
+    # bibtex: https://bib.yliu.me/MICCAI23.txt
+    # image: ./assets/img/teaser_example_2.png
+    # notes: ~
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+  - title: "EUBUCCO v0.1: European building stock characteristics in a common and open database for 200+ million individual buildings"
+    authors: Milojevic-Dupont, Nikola, Felix Wagner, <strong>Florian Nachtigall</strong>, Jiawei Hu, Geza Boi Brüser, Marius Zumwald, Filip Biljecki, Niko Heeren, Lynn H. Kaack, Peter-Paul Pichler, Felix Creutzig 
+    # conference_short: CVPR
+    conference: Scientific Data
+    pdf: https://www.nature.com/articles/s41597-023-02040-2.pdf
+    code: https://github.com/ai4up/eubucco
+    page: https://www.nature.com/articles/s41597-023-02040-2
+    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # notes: ~
+    # image: ./assets/img/teaser_example.png

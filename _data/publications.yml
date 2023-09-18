@@ -8,7 +8,7 @@ main:
     page: https://www.sciencedirect.com/science/article/pii/S019897152300073X
     code: https://github.com/ai4up/ufo-prediction
     # bibtex: https://bib.yliu.me/MICCAI23.txt
-    # image: ./assets/img/teaser_example_2.png
+    image: ./assets/img/ceus-thumbnail.jpg
     # notes: ~
 
   - title: "EUBUCCO v0.1: European building stock characteristics in a common and open database for 200+ million individual buildings"
@@ -18,6 +18,7 @@ main:
     pdf: https://www.nature.com/articles/s41597-023-02040-2.pdf
     code: https://github.com/ai4up/eubucco
     page: https://www.nature.com/articles/s41597-023-02040-2
+    data: https://eubucco.com/data
     # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
     # notes: ~
-    # image: ./assets/img/teaser_example.png
+    image: ./assets/img/eubucco-thumbnail.webp

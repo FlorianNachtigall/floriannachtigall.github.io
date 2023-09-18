@@ -12,7 +12,7 @@ main:
     # notes: ~
 
   - title: "EUBUCCO v0.1: European building stock characteristics in a common and open database for 200+ million individual buildings"
-    authors: Milojevic-Dupont, Nikola, Felix Wagner, <strong>Florian Nachtigall</strong>, Jiawei Hu, Geza Boi Brüser, Marius Zumwald, Filip Biljecki, Niko Heeren, Lynn H. Kaack, Peter-Paul Pichler, Felix Creutzig 
+    authors: Nikola Milojevic-Dupont, Felix Wagner, <strong>Florian Nachtigall</strong>, Jiawei Hu, Geza Boi Brüser, Marius Zumwald, Filip Biljecki, Niko Heeren, Lynn H. Kaack, Peter-Paul Pichler, Felix Creutzig
     # conference_short: CVPR
     conference: Scientific Data
     pdf: https://www.nature.com/articles/s41597-023-02040-2.pdf

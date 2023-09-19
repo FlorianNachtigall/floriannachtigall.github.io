@@ -16,7 +16,7 @@ I am supervised by [Prof. Dr. Felix Creutzig](https://www.mcc-berlin.net/en/abou
 
 ## News
 
-- **[Sep. 2023]** Presention of the [gtfs2nx](https://github.com/ai4up/gtfs2nx) Python package and its application for equitable and sustainable transit accessibility analysis ([GIScience - Workshop](https://otesama2023.readthedocs.io/en/latest/))
+- **[Sep. 2023]** Presention of the [gtfs2nx](https://github.com/ai4up/gtfs2nx) Python package and its application for equitable and sustainable transit accessibility analysis (see [slides](https://otesama2023.readthedocs.io/en/latest/presentations/short_talks.html)) ([GIScience - Workshop](https://otesama2023.readthedocs.io/en/latest/))
 - **[Mai. 2023]** Presentation on spatially-explicit causal analysis of urban densification and infrastructure interventions ([Machine Learning in Economics - Workshop](https://smaxand.github.io/CfP_MLEconomics2.pdf))
 - **[Sep.++ 2022]** Teaching assistant for the Master's course [Deep Learning](https://www.hertie-school.org/en/study/course-catalogue/course/course/deep-learning) at Hertie School
 

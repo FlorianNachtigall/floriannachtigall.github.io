@@ -6,9 +6,9 @@ email: nachtigall(at)tu-berlin.de
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
-keywords: minimal light
-description: The Minimal Light is a simple and elegant jekyll theme for academic personal homepage.
-canonical: https://minimal-light-theme.yliu.me/
+keywords: Florian Nachtigall, MCC, PhD, TU Berlin, machine learning, causal inference, double machine learning, EUBUCCO, building age prediction, transport, buildings, climate mitigation, decarbonization, low-carbon, urban form, built environment, urban planning, geospatial data, GIS, retrofit, energy modeling
+description: Academic personal website of Florian Nachtigall, Technical University of Berlin & Mercator Research Institute on Global Commons and Climate Change.
+canonical: https://floriannachtigall.github.io/
 
 # Links 
 google_scholar: https://scholar.google.ch/citations?user=C3bk5RoAAAAJ

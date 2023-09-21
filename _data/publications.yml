@@ -4,7 +4,7 @@ main:
     authors: <strong>Florian Nachtigall</strong>, Nikola Milojevic-Dupont, Felix Wagner, Felix Creutzig
     conference_short: CEUS
     conference: Computers, Environment and Urban Systems, 2023.
-    # pdf: ~
+    pdf: https://zenodo.org/record/8364017/files/predicting-building-age-at-large-scale-accepted-version.pdf
     page: https://www.sciencedirect.com/science/article/pii/S019897152300073X
     code: https://github.com/ai4up/ufo-prediction
     # bibtex: https://bib.yliu.me/MICCAI23.txt

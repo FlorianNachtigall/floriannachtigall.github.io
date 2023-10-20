@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a PhD candidate at the Technical University of Berlin. My research focuses on how machine learning techniques can advance and scale-up the decarbonization of the transport and building sector. Methodologically, I'm intersted in Graph Neural Networks (GNNs) for modeling spatial relationships and causal machine learning for estimating the effects of transport policy and urban planning interventions.
+I am a PhD candidate at the Technical University of Berlin. My research focuses on how machine learning techniques can advance and scale-up the decarbonization of the transport and building sectors. Methodologically, I'm interested in Graph Neural Networks (GNNs) for modeling spatial relationships and causal machine learning for estimating the effects of transport policies and infrastructure interventions on travel behavior and related emissions.
 
 I am supervised by [Prof. Dr. Felix Creutzig](https://www.mcc-berlin.net/en/about/team/creutzig-felix.html) and affiliated with the Mercator Research Institute for Global Commons and Climate Change (MCC), where we aim to support data-driven solutions for low-carbon urban planning using geospatial data and machine learning as part of the [AI4UP](https://www.mcc-berlin.net/forschung/arbeitsgruppen/landnutzung-infrastruktur-und-transport/ai4up.html) project.
 

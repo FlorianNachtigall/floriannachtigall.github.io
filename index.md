@@ -16,7 +16,8 @@ I am supervised by [Prof. Dr. Felix Creutzig](https://www.mcc-berlin.net/en/abou
 
 ## News
 
-- **[Sep. 2023]** Presention of the [gtfs2nx](https://github.com/ai4up/gtfs2nx) Python package and its application for equitable and sustainable transit accessibility analysis (see [slides](https://otesama2023.readthedocs.io/en/latest/presentations/short_talks.html)) ([GIScience - Workshop](https://otesama2023.readthedocs.io/en/latest/))
+- **[Dez. 2023]** Presentation on using causal machine learning to disentangle the non-linear influence of the built environment on travel behavior from residential self-selection ([NeurIPS - Workshop](https://climatechange.ai/events/neurips2023))
+- **[Sep. 2023]** Presentation of the [gtfs2nx](https://github.com/ai4up/gtfs2nx) Python package and its application for equitable and sustainable transit accessibility analysis (see [slides](https://otesama2023.readthedocs.io/en/latest/presentations/short_talks.html)) ([GIScience - Workshop](https://otesama2023.readthedocs.io/en/latest/))
 - **[Mai. 2023]** Presentation on spatially-explicit causal analysis of urban densification and infrastructure interventions ([Machine Learning in Economics - Workshop](https://smaxand.github.io/CfP_MLEconomics2.pdf))
 
 

@@ -1,5 +1,17 @@
 main:
 
+  - title: "The built environment and induced transport CO2 emissions: A double machine learning approach to account for residential self-selection"
+    authors: <strong>Florian Nachtigall</strong>, Felix Wagner, Peter Berrill, Felix Creutzig
+    conference_short: NeurIPS Workshop
+    conference: NeurIPS Workshop, Tackling Climate Change with Machine Learning, 2023.
+    pdf: https://arxiv.org/pdf/2312.06616.pdf
+    poster: https://s3.us-east-1.amazonaws.com/climate-change-ai/papers/neurips2023/57/poster.jpg
+    page: https://www.climatechange.ai/papers/neurips2023/57
+    # code: ~
+    # bibtex: ~
+    image: ./assets/img/be-tb-rss-thumbnail.png
+    # notes: ~
+
   - title: Predicting building age from urban form at large scale
     authors: <strong>Florian Nachtigall</strong>, Nikola Milojevic-Dupont, Felix Wagner, Felix Creutzig
     conference_short: CEUS

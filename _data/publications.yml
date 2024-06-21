@@ -1,5 +1,27 @@
 main:
 
+  - title: Demand-side strategies key for mitigating material impacts of energy transitions
+    authors: Felix Creutzig, Sofia G Simoes, Sina Leipold, Peter Berrill, Isabel Azevedo, Oreane Edelenbosch, Tomer Fishman, Helmut Haberl, Edgar Hertwich, Volker Krey, Ana Teresa Lima, Tamar Makov, Alessio Mastrucci, Nikola Milojevic-Dupont, <strong>Florian Nachtigall</strong>, Stefan Pauliuk, Mafalda Silva, Elena Verdolini, Detlef van Vuuren, Felix Wagner, Dominik Wiedenhofer, Charlie Wilson
+    conference_short: Nature CC
+    conference: Nature Climate Change, 2024.
+    # pdf: ~
+    page: https://www.nature.com/articles/s41558-024-02016-z
+    # code: ~
+    # bibtex: ~
+    image: ./assets/img/creutzig-2024-thumbnail.png
+    # notes: ~
+
+  - title: Comparing urban form influences on travel distance, car ownership, and mode choice
+    authors: Peter Berrill, <strong>Florian Nachtigall</strong>, Aneeque Javaid, Nikola Milojevic-Dupont, Felix Wagner, Felix Creutzig
+    conference_short: TR-D
+    conference: "Transportation Research Part D: Transport and Environment, 2024."
+    pdf: https://www.sciencedirect.com/science/article/pii/S1361920924000440/pdfft?md5=67936c45c02176d0a2aa150b764e3498&pid=1-s2.0-S1361920924000440-main.pdf
+    page: https://www.sciencedirect.com/science/article/pii/S1361920924000440
+    # code: ~
+    # bibtex: ~
+    image: ./assets/img/berrill-2024-thumbnail.jpg
+    # notes: ~
+
   - title: "The built environment and induced transport CO2 emissions: A double machine learning approach to account for residential self-selection"
     authors: <strong>Florian Nachtigall</strong>, Felix Wagner, Peter Berrill, Felix Creutzig
     conference_short: NeurIPS Workshop
@@ -9,7 +31,7 @@ main:
     page: https://www.climatechange.ai/papers/neurips2023/57
     # code: ~
     # bibtex: ~
-    image: ./assets/img/be-tb-rss-thumbnail.png
+    image: ./assets/img/nachtigall-2023-neurips-thumbnail.png
     # notes: ~
 
   - title: Predicting building age from urban form at large scale
@@ -20,7 +42,7 @@ main:
     page: https://www.sciencedirect.com/science/article/pii/S019897152300073X
     code: https://github.com/ai4up/ufo-prediction
     # bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/ceus-thumbnail.jpg
+    image: ./assets/img/nachtigall-2023-ceus-thumbnail.jpg
     # notes: ~
 
   - title: "EUBUCCO v0.1: European building stock characteristics in a common and open database for 200+ million individual buildings"

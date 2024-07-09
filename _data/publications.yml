@@ -41,7 +41,7 @@ other:
     authors: Felix Creutzig, Sophia Becker, Peter Berrill, Constanze Bongs, Alexandra Bussler, Ben Cave, Sara M. Constantino, Marcus Grant, Niko Heeren, Eva Heinen, Marie Josefine Hintz, Timothee Ingen-Housz, Eric Johnson, Nina Kolleck, Charlotte Liotta, Sylvia Lorek, Giulio Mattioli, Leila Niamir, Timon McPhearson, Nikola Milojevic-Dupont, <strong>Florian Nachtigall</strong>, Kai Nagel, Henriette Närger, Minal Pathak, Paola Perrin de Brichambaut, Diana Reckien, Lucia A Reisch, Aromar Revi, Fabian Schuppert, Andrew Sudmant, Felix Wagner, Janina Walkenhorst, Elke Weber, Michael Wilmes, Charlie Wilson, Aicha Zekar
     conference_short: npj
     conference: npj Urban Sustainability, 2024.
-    # pdf: ~
+    pdf: https://www.nature.com/articles/s42949-024-00168-7.pdf
     link: https://www.nature.com/articles/s42949-024-00168-7
     # code: ~
     # bibtex: ~

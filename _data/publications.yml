@@ -5,7 +5,7 @@ main:
     conference: NeurIPS Workshop, Tackling Climate Change with Machine Learning, 2023.
     pdf: https://arxiv.org/pdf/2312.06616.pdf
     poster: https://s3.us-east-1.amazonaws.com/climate-change-ai/papers/neurips2023/57/poster.jpg
-    page: https://www.climatechange.ai/papers/neurips2023/57
+    link: https://www.climatechange.ai/papers/neurips2023/57
     # code: ~
     # bibtex: ~
     image: ./assets/img/nachtigall-2023-neurips-thumbnail.png
@@ -16,7 +16,7 @@ main:
     conference_short: CEUS
     conference: Computers, Environment and Urban Systems, 2023.
     pdf: https://zenodo.org/record/8364017/files/predicting-building-age-at-large-scale-accepted-version.pdf
-    page: https://www.sciencedirect.com/science/article/pii/S019897152300073X
+    link: https://www.sciencedirect.com/science/article/pii/S019897152300073X
     code: https://github.com/ai4up/ufo-prediction
     # bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/nachtigall-2023-ceus-thumbnail.jpg
@@ -28,8 +28,9 @@ main:
     conference: Nature Scientific Data, 2023.
     pdf: https://www.nature.com/articles/s41597-023-02040-2.pdf
     code: https://github.com/ai4up/eubucco
-    page: https://www.nature.com/articles/s41597-023-02040-2
+    link: https://www.nature.com/articles/s41597-023-02040-2
     data: https://eubucco.com/data
+    website: https://eubucco.com/
     # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
     # notes: ~
     image: ./assets/img/eubucco-thumbnail.webp
@@ -41,7 +42,7 @@ other:
     conference_short: npj
     conference: npj Urban Sustainability, 2024.
     # pdf: ~
-    page: https://www.nature.com/articles/s42949-024-00168-7
+    link: https://www.nature.com/articles/s42949-024-00168-7
     # code: ~
     # bibtex: ~
     image: ./assets/img/creutzig-2024-npj-thumbnail.png
@@ -52,7 +53,7 @@ other:
     conference_short: Nature CC
     conference: Nature Climate Change, 2024.
     # pdf: ~
-    page: https://www.nature.com/articles/s41558-024-02016-z
+    link: https://www.nature.com/articles/s41558-024-02016-z
     # code: ~
     # bibtex: ~
     image: ./assets/img/creutzig-2024-naturecc-thumbnail.png
@@ -63,7 +64,7 @@ other:
     conference_short: TR-D
     conference: "Transportation Research Part D: Transport and Environment, 2024."
     pdf: https://www.sciencedirect.com/science/article/pii/S1361920924000440/pdfft?md5=67936c45c02176d0a2aa150b764e3498&pid=1-s2.0-S1361920924000440-main.pdf
-    page: https://www.sciencedirect.com/science/article/pii/S1361920924000440
+    link: https://www.sciencedirect.com/science/article/pii/S1361920924000440
     # code: ~
     # bibtex: ~
     image: ./assets/img/berrill-2024-thumbnail.jpg

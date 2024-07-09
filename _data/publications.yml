@@ -1,5 +1,16 @@
 main:
 
+  - title: Towards a public policy of cities and human settlements in the 21st century
+    authors: Felix Creutzig, Sophia Becker, Peter Berrill, Constanze Bongs, Alexandra Bussler, Ben Cave, Sara M. Constantino, Marcus Grant, Niko Heeren, Eva Heinen, Marie Josefine Hintz, Timothee Ingen-Housz, Eric Johnson, Nina Kolleck, Charlotte Liotta, Sylvia Lorek, Giulio Mattioli, Leila Niamir, Timon McPhearson, Nikola Milojevic-Dupont, <strong>Florian Nachtigall</strong>, Kai Nagel, Henriette Närger, Minal Pathak, Paola Perrin de Brichambaut, Diana Reckien, Lucia A Reisch, Aromar Revi, Fabian Schuppert, Andrew Sudmant, Felix Wagner, Janina Walkenhorst, Elke Weber, Michael Wilmes, Charlie Wilson, Aicha Zekar
+    conference_short: npj
+    conference: npj Urban Sustainability, 2024.
+    # pdf: ~
+    page: https://www.nature.com/articles/s42949-024-00168-7
+    # code: ~
+    # bibtex: ~
+    image: ./assets/img/creutzig-2024-npj-thumbnail.png
+    # notes: ~
+
   - title: Demand-side strategies key for mitigating material impacts of energy transitions
     authors: Felix Creutzig, Sofia G Simoes, Sina Leipold, Peter Berrill, Isabel Azevedo, Oreane Edelenbosch, Tomer Fishman, Helmut Haberl, Edgar Hertwich, Volker Krey, Ana Teresa Lima, Tamar Makov, Alessio Mastrucci, Nikola Milojevic-Dupont, <strong>Florian Nachtigall</strong>, Stefan Pauliuk, Mafalda Silva, Elena Verdolini, Detlef van Vuuren, Felix Wagner, Dominik Wiedenhofer, Charlie Wilson
     conference_short: Nature CC
@@ -8,7 +19,7 @@ main:
     page: https://www.nature.com/articles/s41558-024-02016-z
     # code: ~
     # bibtex: ~
-    image: ./assets/img/creutzig-2024-thumbnail.png
+    image: ./assets/img/creutzig-2024-naturecc-thumbnail.png
     # notes: ~
 
   - title: Comparing urban form influences on travel distance, car ownership, and mode choice

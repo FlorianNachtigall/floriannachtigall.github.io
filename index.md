@@ -22,6 +22,7 @@ I am supervised by [Prof. Dr. Felix Creutzig](https://www.mcc-berlin.net/en/abou
 
 
 {% include_relative _includes/publications.md %}
+{% include_relative _includes/publications-other.md %}
 
 
 ## Open Source Software

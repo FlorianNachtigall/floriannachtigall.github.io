@@ -15,6 +15,7 @@ I am supervised by [Prof. Dr. Felix Creutzig](https://www.mcc-berlin.net/en/abou
 
 
 ## News
+- **[Feb. 2025]** Poster on causal machine learning for low-carbon urban planning (see [poster](https://floriannachtigall.github.io/assets/files/aaai-ai4up-2025-poster.pdf)) ([AAAI - Workshop](https://ai-for-urban-planning.github.io/AAAI25-workshop))
 - **[Jul. 2024]** Tutorial on predicting mobility demand from urban features for the Climate Change AI [summer school](https://www.climatechange.ai/events/summer_school2024#virtual-summer-school) (see [tutorial](https://www.climatechange.ai/tutorials?search=id:predicting-mobility-demand) & [code](https://github.com/climatechange-ai-tutorials/mobility-demand))
 - **[Jun. 2024]** Presentation on evaluating low-carbon urban planning strategies using causal machine learning and identifying housing locations that minimize travel (see [slides](https://floriannachtigall.github.io/assets/files/wwcs-2024-slides.pdf)) ([WhatWorks Climate Solutions Summit - Conference](https://whatworksclimate.solutions/session/21-urban-typologies/))
 - **[Dec. 2023]** Presentation on using double machine learning to disentangle the non-linear influence of the built environment on travel behavior from residential self-selection (see [recording](https://www.climatechange.ai/papers/neurips2023/57), [poster](https://s3.us-east-1.amazonaws.com/climate-change-ai/papers/neurips2023/57/poster.jpg) & [short paper](https://arxiv.org/abs/2312.06616)) ([NeurIPS - Workshop](https://climatechange.ai/events/neurips2023))

@@ -1,14 +1,14 @@
 main:
-  - title: "The built environment and induced transport CO2 emissions: A double machine learning approach to account for residential self-selection"
+  - title: "Built environment and travel: Tackling non-linear residential self-selection with double machine learning"
     authors: <strong>Florian Nachtigall</strong>, Felix Wagner, Peter Berrill, Felix Creutzig
-    conference_short: NeurIPS Workshop
-    conference: NeurIPS Workshop, Tackling Climate Change with Machine Learning, 2023.
-    pdf: https://arxiv.org/pdf/2312.06616.pdf
-    poster: https://s3.us-east-1.amazonaws.com/climate-change-ai/papers/neurips2023/57/poster.jpg
-    link: https://www.climatechange.ai/papers/neurips2023/57
+    conference_short: TR-D
+    conference: "Transportation Research Part D: Transport and Environment, 2024."
+    pdf: https://www.sciencedirect.com/science/article/pii/S1361920925000033/pdfft
+    # poster: ~
+    link: https://www.sciencedirect.com/science/article/pii/S1361920925000033
     # code: ~
     # bibtex: ~
-    image: ./assets/img/nachtigall-2023-neurips-thumbnail.png
+    image: ./assets/img/nachtigall-2025-trd-thumbnail.png
     # notes: ~
 
   - title: Predicting building age from urban form at large scale
@@ -34,6 +34,18 @@ main:
     # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
     # notes: ~
     image: ./assets/img/eubucco-thumbnail.webp
+
+  - title: "The built environment and induced transport CO2 emissions: A double machine learning approach to account for residential self-selection"
+    authors: <strong>Florian Nachtigall</strong>, Felix Wagner, Peter Berrill, Felix Creutzig
+    conference_short: NeurIPS Workshop
+    conference: NeurIPS Workshop, Tackling Climate Change with Machine Learning, 2023.
+    pdf: https://arxiv.org/pdf/2312.06616.pdf
+    poster: https://s3.us-east-1.amazonaws.com/climate-change-ai/papers/neurips2023/57/poster.jpg
+    link: https://www.climatechange.ai/papers/neurips2023/57
+    # code: ~
+    # bibtex: ~
+    image: ./assets/img/nachtigall-2023-neurips-thumbnail.png
+    # notes: ~
 
 other:
 

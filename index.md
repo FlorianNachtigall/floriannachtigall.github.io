@@ -30,6 +30,7 @@ I am supervised by [Prof. Dr. Felix Creutzig](https://www.mcc-berlin.net/en/abou
 
 - **[gtfs2nx](https://github.com/ai4up/gtfs2nx):** A Python package to convert [GTFS](https://developers.google.com/transit/gtfs/) feeds to realistic, routable [NetworkX](https://github.com/networkx/networkx) graph.
 - **[slurm-pipeline](https://github.com/ai4up/slurm-pipeline):** A thin Python wrapper for resilient and scalable [Slurm](https://slurm.schedmd.com/documentation.html) job scheduling.
+- **[eubucco](https://github.com/ai4up/eubucco):** A simple data pipeline to collect and harmonize 50+ open building datasets on a scientific [HPC cluster](https://www.pik-potsdam.de/en/institute/about/it-services/hpc) (see [dataset](https://eubucco.com/data) & [data descriptor paper](https://www.nature.com/articles/s41597-023-02040-2))
 
 
 ## Teaching

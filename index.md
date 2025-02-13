@@ -29,6 +29,7 @@ I am supervised by [Prof. Dr. Felix Creutzig](https://www.mcc-berlin.net/en/abou
 
 ## Open Source Software
 
+- **[urban-centrality-index](https://github.com/ai4up/urban-centrality-index):** A Python package to calculate the Urban Centrality Index (UCI) as described in [Pereira et al. (2013)](https://www.doi.org/10.1111/gean.12002).
 - **[gtfs2nx](https://github.com/ai4up/gtfs2nx):** A Python package to convert [GTFS](https://developers.google.com/transit/gtfs/) feeds to realistic, routable [NetworkX](https://github.com/networkx/networkx) graph.
 - **[slurm-pipeline](https://github.com/ai4up/slurm-pipeline):** A thin Python wrapper for resilient and scalable [Slurm](https://slurm.schedmd.com/documentation.html) job scheduling.
 - **[eubucco](https://github.com/ai4up/eubucco):** A simple data pipeline to collect and harmonize 50+ open building datasets on a scientific [HPC cluster](https://www.pik-potsdam.de/en/institute/about/it-services/hpc) (see [dataset](https://eubucco.com/data) & [data descriptor paper](https://www.nature.com/articles/s41597-023-02040-2))

@@ -29,6 +29,7 @@ I am supervised by [Prof. Dr. Felix Creutzig](https://www.mcc-berlin.net/en/abou
 
 ## Open Source Software
 
+- **[eubucco-conflation](https://github.com/ai4up/eubucco-conflation):** A web-based tool to detect and label duplicates when conflating multiple building footprint datasets.
 - **[urban-centrality-index](https://github.com/ai4up/urban-centrality-index):** A Python package to calculate the Urban Centrality Index (UCI) as described in [Pereira et al. (2013)](https://www.doi.org/10.1111/gean.12002).
 - **[gtfs2nx](https://github.com/ai4up/gtfs2nx):** A Python package to convert [GTFS](https://developers.google.com/transit/gtfs/) feeds to realistic, routable [NetworkX](https://github.com/networkx/networkx) graph.
 - **[slurm-pipeline](https://github.com/ai4up/slurm-pipeline):** A thin Python wrapper for resilient and scalable [Slurm](https://slurm.schedmd.com/documentation.html) job scheduling.

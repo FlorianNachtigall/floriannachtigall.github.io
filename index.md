@@ -8,10 +8,6 @@ I am a PhD candidate at the Technical University of Berlin. My research focuses 
 
 I am supervised by [Prof. Dr. Felix Creutzig](https://www.mcc-berlin.net/en/about/team/creutzig-felix.html) and affiliated with the [Potsdam Institute for Climate Impact Research (PIK)](https://www.pik-potsdam.de/en/institute/departments/climate-economics-and-policy/research/cities-data-science-and-sustainable-planning/cities-data-science-and-sustainable-planning), where we aim to support data-driven solutions for low-carbon urban planning using geospatial data and machine learning as part of the [AI4UP](https://www.mcc-berlin.net/forschung/arbeitsgruppen/landnutzung-infrastruktur-und-transport/ai4up.html) project.
 
-<!-- ## Research Interests
-
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning -->
 
 
 ## News

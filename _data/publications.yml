@@ -48,6 +48,17 @@ main:
     # notes: ~
 
 other:
+  - title: An urban shared pooled mobility system cuts distance travelled by over 50%
+    authors: Alexander Schmaus, Felix Creutzig, Nicolas Koch, <strong>Florian Nachtigall</strong>, Nora Molkenthin
+    conference_short: TR-D
+    conference: "Transportation Research Part D: Transport and Environment, 2025."
+    pdf: https://www.sciencedirect.com/science/article/pii/S1361920925001361/pdfft
+    link: https://www.sciencedirect.com/science/article/pii/S1361920925001361
+    # code: ~
+    # bibtex: ~
+    image: ./assets/img/schmaus-2025-thumbnail.png
+    # notes: ~
+
   - title: The impact of the Bangkok metro expansion via Big Taxi GPS probe data
     authors: Eva Ayaragarnchanakul, Hannah Klauber, <strong>Florian Nachtigall</strong>, Felix Wagner, Jia-wei Hu, Felix Creutzig
     conference_short: npj
@@ -85,7 +96,7 @@ other:
     authors: Peter Berrill, <strong>Florian Nachtigall</strong>, Aneeque Javaid, Nikola Milojevic-Dupont, Felix Wagner, Felix Creutzig
     conference_short: TR-D
     conference: "Transportation Research Part D: Transport and Environment, 2024."
-    pdf: https://www.sciencedirect.com/science/article/pii/S1361920924000440/pdfft?md5=67936c45c02176d0a2aa150b764e3498&pid=1-s2.0-S1361920924000440-main.pdf
+    pdf: https://www.sciencedirect.com/science/article/pii/S1361920924000440/pdfft
     link: https://www.sciencedirect.com/science/article/pii/S1361920924000440
     # code: ~
     # bibtex: ~

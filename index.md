@@ -36,8 +36,12 @@ Alongside my academic work, I am available for freelance and contract work relat
 - **[slurm-pipeline](https://github.com/ai4up/slurm-pipeline):** A thin Python wrapper for resilient and scalable [Slurm](https://slurm.schedmd.com/documentation.html) job scheduling.
 - **[eubucco](https://github.com/ai4up/eubucco):** A simple data pipeline to collect and harmonize 50+ open building datasets on a scientific [HPC cluster](https://www.pik-potsdam.de/en/institute/about/it-services/hpc) (see [dataset](https://eubucco.com/data) & [data descriptor paper](https://www.nature.com/articles/s41597-023-02040-2))
 
-
 ## Teaching
 - **[WS 2022/23]** Teaching assistant for the master course [Deep Learning](https://www.hertie-school.org/en/study/course-catalogue/course/course/deep-learning) at the Hertie School
 
 <!-- {% include_relative _includes/services.md %} -->
+
+## Websites
+- **[eubucco.com](https://eubucco.com/):** Explore and download the [EUBUCCO](https://www.nature.com/articles/s41597-023-02040-2) building dataset
+- **[cities-explorer.eubucco.com](https://cities-explorer.eubucco.com/):** Explore a [global urban typology](https://doi.org/10.21203/rs.3.rs-8363797/v1) for coordinated climate action
+- **[matching-demo.eubucco.com](https://matching-demo.eubucco.com/):** Demo for labeling and matching building pairs for dataset conflation.

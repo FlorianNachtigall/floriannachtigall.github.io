@@ -12,6 +12,10 @@ Alongside my academic work, I am available for freelance and contract work relat
 
 
 ## News
+- **[Jan. 2026]** Research visit to the [Urban Analytics Lab](https://ual.sg/) at the National University of Singapore
+- **[Dec. 2026]** Website for our global urban typology for coordinated climate action is live: [https://cities-explorer.eubucco.com/](https://cities-explorer.eubucco.com/) (see  [preprint](https://doi.org/10.21203/rs.3.rs-8363797/v1))
+- **[Nov. 2026]** Contributing to the IPCC's [Special Report on Climate Change and Cities](https://www.ipcc.ch/report/special-report-on-climate-change-and-cities/)
+- **[Nov. 2025]** Presentation on EUBUCCO v1.0 ([International Land Use Symposium](https://ilus2025.ioer.info/))
 - **[Feb. 2025]** Poster on causal machine learning for low-carbon urban planning (see [poster](https://floriannachtigall.github.io/assets/files/aaai-ai4up-2025-poster.pdf)) ([AAAI - Workshop](https://ai-for-urban-planning.github.io/AAAI25-workshop))
 - **[Jul. 2024]** Tutorial on predicting mobility demand from urban features for the Climate Change AI [summer school](https://www.climatechange.ai/events/summer_school2024#virtual-summer-school) (see [tutorial](https://www.climatechange.ai/tutorials?search=id:predicting-mobility-demand) & [code](https://github.com/climatechange-ai-tutorials/mobility-demand))
 - **[Jun. 2024]** Presentation on evaluating low-carbon urban planning strategies using causal machine learning and identifying housing locations that minimize travel (see [slides](https://floriannachtigall.github.io/assets/files/wwcs-2024-slides.pdf)) ([WhatWorks Climate Solutions Summit - Conference](https://whatworksclimate.solutions/session/21-urban-typologies/))

@@ -12,6 +12,7 @@ Alongside my academic work, I am available for freelance and contract work relat
 
 
 ## News
+- **[Mar. 2026]** New version of EUBUCCO released (see v0.2 [data](https://eubucco.com/files/v0.2/) and [docs](https://docs.eubucco.com/v0.2/))
 - **[Jan. 2026]** Research visit to the [Urban Analytics Lab](https://ual.sg/) at the National University of Singapore
 - **[Dec. 2026]** Website for our global urban typology for coordinated climate action is live: [https://cities-explorer.eubucco.com/](https://cities-explorer.eubucco.com/) (see  [preprint](https://doi.org/10.21203/rs.3.rs-8363797/v1))
 - **[Nov. 2026]** Contributing to the IPCC's [Special Report on Climate Change and Cities](https://www.ipcc.ch/report/special-report-on-climate-change-and-cities/)

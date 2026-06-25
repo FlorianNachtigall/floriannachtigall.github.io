@@ -36,6 +36,28 @@ main:
     image: ./assets/img/eubucco-thumbnail.webp
 
 other:
+  - title: "Refining urban typologies: causal insights into urban form, car commuting, and related CO2 emissions"
+    authors: Felix Wagner, <strong>Florian Nachtigall</strong>, Nikola Milojevic-Dupont, Lukas Franken, Nicolas Koch, Jakob Runge, Rafael HM Pereira, Marta C. Gonzalez, Felix Creutzig
+    conference_short: ERL
+    conference: "Environmental Research Letters, 2026."
+    pdf: https://iopscience.iop.org/article/10.1088/1748-9326/ae6881/pdf
+    link: https://iopscience.iop.org/article/10.1088/1748-9326/ae6881/meta
+    code: https://github.com/wagnerfe/xml4uf
+    # bibtex: ~
+    image: ./assets/img/wagner-2026-thumbnail.jpg
+    # notes: ~
+
+  - title: "Towards an integrated understanding of circularity, urban design, planetary stability and well-being"
+    authors: Mira Kopp, Peter Berrill, Harald Desing, Aneeque Javaid, Alessio Mastrucci, Nikola Milojevic-Dupont, <strong>Florian Nachtigall</strong>, Jakob Napiontek, Hauke Schlesier, Mafalda Silva, Dominik Wiedenhofer, Charlie Wilson, Alona Zharova, Felix Creutzig
+    conference_short: JIE
+    conference: "Journal of Industrial Ecology, 2026."
+    pdf: https://link.springer.com/content/pdf/10.1007/s44498-026-00108-x.pdf
+    link: https://link.springer.com/article/10.1007/s44498-026-00108-x
+    # code: ~
+    # bibtex: ~
+    image: ./assets/img/kopp-2026-thumbnail.jpeg
+    # notes: ~
+
   - title: An urban shared pooled mobility system cuts distance travelled by over 50%
     authors: Alexander Schmaus, Felix Creutzig, Nicolas Koch, <strong>Florian Nachtigall</strong>, Nora Molkenthin
     conference_short: TR-D

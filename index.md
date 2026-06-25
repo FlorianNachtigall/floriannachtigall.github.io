@@ -4,11 +4,16 @@ layout: homepage
 
 ## About Me
 
-I am a PhD candidate at the Technical University of Berlin. My research focuses on how machine learning techniques can advance and scale-up the decarbonization of the transport and building sectors. Methodologically, I'm interested in Graph Neural Networks (GNNs) for modeling spatial relationships and causal machine learning for estimating the effects of transport policies and infrastructure interventions on travel behavior and related emissions.
+I am a PhD candidate at the Technical University of Berlin, supervised by Prof. Dr. Felix Creutzig, and affiliated with the **[Potsdam Institute for Climate Impact Research (PIK)](https://www.pik-potsdam.de/en/institute/departments/climate-economics-and-policy/research/cities-data-science-and-sustainable-planning/cities-data-science-and-sustainable-planning)**. My research lies at the intersection of open spatial data, machine learning, and sustainable urban development. I am particularly interested in advancing open geospatial infrastructure to better understand cities and accelerate the transition to low-carbon urban systems.
 
-I am supervised by [Prof. Dr. Felix Creutzig](https://www.pik-potsdam.de/members/creutzig) and affiliated with the [Potsdam Institute for Climate Impact Research (PIK)](https://www.pik-potsdam.de/en/institute/departments/climate-economics-and-policy/research/cities-data-science-and-sustainable-planning/cities-data-science-and-sustainable-planning), where we aim to support data-driven solutions for low-carbon urban planning using geospatial data and machine learning as part of the [AI4UP](https://github.com/ai4up/) project.
+A major focus of my research is developing large-scale open geospatial datasets and tools. I lead the development of **[EUBUCCO](https://eubucco.com/)**, one of the largest harmonized open building datasets for Europe, integrating more than 50 national and regional datasets into a unified resource for research and policy. I also contribute to the **[Overture Maps Foundation](https://overturemaps.org/)**, where I develop methods to improve the quality of global open map data, and serve as an expert consultant to the European Commission's **[Joint Research Centre](https://commission.europa.eu/about/departments-and-executive-agencies/joint-research-centre_en)** (JRC) on open building stock data and urban analytics. In addition, I contribute to the upcoming **[IPCC Special Report on Climate Change and Cities](https://www.ipcc.ch/report/special-report-on-climate-change-and-cities/)**.
 
-Alongside my academic work, I work as a freelance Spatial Data Scientist — most recently with the Overture Maps Foundation and European Commission. I am open to contract work in data science, geospatial analysis, and climate tech.
+My work focuses on making open spatial data more complete, reliable, and actionable. This includes graph neural networks for inferring missing building attributes from spatial context, machine learning approaches for large-scale geospatial dataset conflation, and causal machine learning to estimate the effects of transport and land-use interventions on travel behavior and emissions. I also develop **[global urban typologies](https://cities-explorer.eubucco.com/)** that facilitate learning between cities and accelerate the adoption of climate solutions.
+
+Alongside my academic research, I am available for freelance and contract work in geospatial data science, machine learning, and open spatial data.
+
+
+
 
 
 
